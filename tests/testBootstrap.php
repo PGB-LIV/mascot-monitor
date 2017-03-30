@@ -5,6 +5,5 @@
  */
 chdir('src');
 
-//require_once 'conf/config.php';
 require_once 'conf/autoload.php';
 require_once 'vendor/autoload.php';
